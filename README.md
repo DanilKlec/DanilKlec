@@ -1,5 +1,24 @@
-<div id="header" align="center">
-    <img src="/your-logo-or-photo.png" width="150" height="150" object-fit="cover" border-radius="50%">
+<style>
+   .avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;      /* чтобы фото не вылазило за круг */
+    border: 4px solid #007bff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+    margin-bottom: 1rem;
+}
+
+.avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;     /* обрежет лишнее и заполнит круг */
+    display: block;
+}
+</style>
+
+<div id="header" align="center" class="avatar">
+    <img src="/your-logo-or-photo.png">
 </div>
 
 -----
