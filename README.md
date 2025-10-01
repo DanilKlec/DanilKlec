@@ -15,7 +15,7 @@ When I'm not coding, I enjoy exploring new technologies, experimenting with desi
 -----
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Activity">
+    <img src="https://github-readme-stats.vercel.app/api?username=DanilKlec&show_icons=true&theme=dark" alt="GitHub Activity">
 </div>
 
 -----
