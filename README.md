@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://your-avatar-link.png" width="200" height="200" style="border-radius:50%; border:4px solid #007bff; box-shadow:0 4px 10px rgba(0,0,0,0.25)">
+    <img src="/your-logo-or-photo.png" width="200" height="200" style="border-radius:50%; border:4px solid #007bff; box-shadow:0 4px 10px rgba(0,0,0,0.25)">
 </div>
 
 -----
