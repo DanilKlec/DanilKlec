@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://your-logo-or-photo.png" width="150" height="150">
+    <img src="/your-logo-or-photo.png" width="150" height="150">
 </div>
 
 -----
