@@ -12,14 +12,6 @@ My main focus is on building robust backends, APIs, and interactive frontends.
 
 When I'm not coding, I enjoy exploring new technologies, experimenting with design, and sharing knowledge in my blog and social media.
 
------
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DanilKlec&show_icons=true&theme=dark" alt="GitHub Activity">
-</div>
-
------
-
 ### Tools I use
 
 <div align="center">
