@@ -22,6 +22,8 @@ When I'm not coding, I enjoy exploring new technologies, experimenting with desi
     <img src="https://img.shields.io/badge/Angular-007f00?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
     <img src="https://img.shields.io/badge/TailwindCSS-007f00?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS">
     <img src="https://img.shields.io/badge/Docker-007f00?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+    <img src="https://img.shields.io/badge/Node.js-007f00?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+    <img src="https://img.shields.io/badge/Vite-007f00?logo=vite&logoColor=white&style=for-the-badge" alt="Vite">
 </div>
 
 -----
