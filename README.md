@@ -44,4 +44,3 @@ When I'm not coding, I enjoy exploring new technologies, experimenting with desi
     <a href="https://t.me/danilklec"><img src="https://img.shields.io/badge/Telegram-007f00?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"></a>
 </div>
 
-> **I usually answer questions and discuss tech every Tuesday and Thursday evening UTC.**
